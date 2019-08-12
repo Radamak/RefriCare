@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RefriCare</string>
+    <string name="gender_unknown">Desconocido</string>
+
+
+    <string name="tipo_desconocido">Desconocido</string>
+    <string name="tipo_automatico">Automático</string>
+    <string name="semi">Semi-automático</string>
+
+
+    <string name="txt_bienvenida">Bienvenido a Refricare</string>
+    <string name="btn_registro">Registro</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="txt_registro">Le damos la bienvenida</string>
+
+    <string name="txt_descripcion">Mejorando tu tecnología con innovación.</string>
+    <string name="txt_espera">Espere un momento por favor.</string>
+
+
+</resources>
